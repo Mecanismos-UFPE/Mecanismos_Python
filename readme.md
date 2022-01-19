@@ -1,6 +1,6 @@
 # Módulos Disponíveis
 
-## [ElevDiagram](#elevdiagram\.py), [GetPrimeCircle](#GetPrimeCircle\.py)
+## [ElevDiagram](#elevdiagram.py), [GetPrimeCircle](#GetPrimeCircle.py)
 
 ## elevdiagram.py
 ---
