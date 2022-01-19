@@ -1,6 +1,6 @@
 # Módulos Disponíveis
 
-## [ElevDiagram](#elevdiagram-py), [GetPrimeCircle](#GetPrimeCircle-py)
+## [ElevDiagram](#elevdiagram-py), [GetPrimeCircle](#GetPrimeCircle-py), [GetPrimeCircleNumeric](#GetPrimeCircleNumeric-py)
 
 # elevdiagram py
 ---
@@ -83,4 +83,32 @@ PlotDiagrams(f, pi/2, g, pi/3)
 from PrimeCircle import *
 
 PrimeCircle('harmonica', 8, pi/2, pi/6)
+~~~
+
+# GetPrimeCircleNumeric py
+---
+> ## **Função:**
+>
+> **NumericPrimeCircle**
+>
+> ### Argumentos:
+>
+> * 'harmonica'
+> * 'cicloide'
+> * 'duplaharmonica'
+> * 'duplacicloide'
+> * '3-4' ou '4-5'
+> * '3-4-5' ou '4-5-6'
+> * '3-4-5-6' ou '4-5-6-7'
+
+> * h - Altura de elevação
+> * β - Ângulo de elevação
+> * φ - Ângulo de pressão de projeto
+> * ϵ - Excentricidade. só deve ser colocado se houver deslocmento do seguidor
+
+**Forma de uso do Código**
+~~~python
+from PrimeCircle import *
+
+NumericPrimeCircle('duplaharmonica', 8, 2*pi/3, (pi/180)*18)
 ~~~
