@@ -108,7 +108,7 @@ PrimeCircle('harmonica', 8, pi/2, pi/6)
 
 **Forma de uso do Código**
 ~~~python
-from PrimeCircle import *
+from GetPrimeCircle import *
 
 NumericPrimeCircle('duplaharmonica', 8, 2*pi/3, (pi/180)*18)
 ~~~
