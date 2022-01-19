@@ -55,7 +55,7 @@ def PlotCurv(C, acel = 0):
     p[2].line_color = 'r'
     p.show()
 
-def PlotCurves(E, βs, R, βi):
+def PlotDiagrams(E, βs, R, βi):
     f = E[0]; β1 = E[1]; g = R[0]; β2 = R[1]
     p = plot(f, diff(f,θ), diff(f,θ,2), diff(f,θ,3), (θ,0,β1), show = False)
     p[1].line_color = 'g'
