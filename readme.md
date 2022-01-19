@@ -1,7 +1,7 @@
-# elevdiagram.py
+## elevdiagram.py
 > ## **Funções:**
 >
-> **GetElev**, **GetRet**, **PlotCurv**
+> **GetElev**, **GetRet**, **PlotCurv** e **PlotDiagrams**
 >
 > Formas de Uso:
 >
@@ -37,6 +37,15 @@
 >            diferente de zero, não plota o gráfico da aceleração segunda.
 > ~~~
 
+> *Funçao PlotDiagrams:*
+>
+> ~~~
+> f  - Valor obtido da função GetElev.
+> βs - Ângulo de repouso superior (se não houver, deixe zero)
+> g  - Valor obtido da função GetRet.
+> βi - Ângulo de repouso inferior (se não houver, deixe zero)
+> ~~~
+
 **Forma de uso do Código**
 ~~~
 from elevdiagram import *
@@ -45,4 +54,5 @@ f = GetElev('duplacicloide', 2, pi/2)
 g = GetElev('duplahamonica', 2, 2*pi/3)
 PlotCurv(f,1)
 PlotCurv(g)
+PlotDiagrams(f, pi/2, g, pi/3)
 ~~~
