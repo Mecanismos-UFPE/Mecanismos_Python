@@ -37,7 +37,7 @@ def GetElev(curva, h, β):
         return 0
     return u
 
-def PhiAngleInformation(curva, h, β, φ, ε):
+def PrimeCircle(curva, h, β, φ, ε=0):
     if (curva == 'harmonica'):
         K = sqrt( 1 + (pi/(β*tan(φ)))**2 )
         Rₚ = 0.5*h*(K-1)
