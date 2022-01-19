@@ -54,9 +54,9 @@ PlotCurv(g)
 PlotDiagrams(f, pi/2, g, pi/3)
 ~~~
 
-## ExactPressureAngle.py
+## GetPrimeCircle.py
 ---
-> ## **Funçõe:**
+> ## **Função:**
 >
 > **PrimeCircle**
 >
