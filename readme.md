@@ -1,15 +1,16 @@
 # Módulos Disponíveis
 
 ## [ElevDiagram](#elevdiagram.py), [GetPrimeCirlce](#GetPrimeCirlce.py)
-## elevdiagram.py
 
+## elevdiagram.py
+---
 > ## **Funções:**
 >
 > **GetElev**, **GetRet**, **PlotCurv** e **PlotDiagrams**
 >
 > ### Formas de Uso:
 >
-> ~~~python
+> ~~~
 > curv = GetElev('Curva', h, β)
 > curv = GetRet('Curva', h, β)
 > PlotCurv(curv)
@@ -57,8 +58,8 @@ PlotCurv(g)
 PlotDiagrams(f, pi/2, g, pi/3)
 ~~~
 
-## GetPrimeCircle.py
-
+## GetPrimeCirlce.py
+---
 > ## **Função:**
 >
 > **PrimeCircle**
@@ -79,7 +80,7 @@ PlotDiagrams(f, pi/2, g, pi/3)
 
 **Forma de uso do Código**
 ~~~python
-from elevdiagram import *
+from PrimeCircle import *
 
 PrimeCircle('harmonica', 8, pi/2, pi/6)
 ~~~
