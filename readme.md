@@ -1,8 +1,8 @@
 # Módulos Disponíveis
 
-## [ElevDiagram](#elevdiagram.py), [GetPrimeCircle](#GetPrimeCircle.py)
+## [ElevDiagram](#elevdiagram-py), [GetPrimeCircle](#GetPrimeCircle-py)
 
-## elevdiagram.py
+## elevdiagram py
 ---
 > ## **Funções:**
 >
@@ -58,7 +58,7 @@ PlotCurv(g)
 PlotDiagrams(f, pi/2, g, pi/3)
 ~~~
 
-# GetPrimeCircle.py
+# GetPrimeCircle py
 ---
 > ## **Função:**
 >
