@@ -1,12 +1,12 @@
 ## elevdiagram.py
----
+
 > ## **Funções:**
 >
 > **GetElev**, **GetRet**, **PlotCurv** e **PlotDiagrams**
 >
 > ### Formas de Uso:
 >
-> ~~~
+> ~~~python
 > curv = GetElev('Curva', h, β)
 > curv = GetRet('Curva', h, β)
 > PlotCurv(curv)
@@ -55,7 +55,7 @@ PlotDiagrams(f, pi/2, g, pi/3)
 ~~~
 
 ## GetPrimeCircle.py
----
+
 > ## **Função:**
 >
 > **PrimeCircle**
