@@ -4,7 +4,7 @@
 | Módulo | Descritivo |
 | :---: | ------ |
 | [<img src="https://user-images.githubusercontent.com/67014817/150676718-dfdb3bcc-905d-44d5-92a1-6c3e8b045a91.jpg" width="100">](informativos/elevdiagram.md)<br>ElevDiagram | Código que permite o traçado de gráficos<br>de elevação e retorno, bem como o diagrama<br> completo da curva e de suas derivadas |
-| [<img src="https://user-images.githubusercontent.com/67014817/150676718-dfdb3bcc-905d-44d5-92a1-6c3e8b045a91.jpg" width="100">](informativos/primecircle.md)<br>GetPrimeCircle | Código que permite o traçado de gráficos<br>de elevação e retorno, bem como o diagrama<br> completo da curva e de suas derivadas |
+| [<img src="https://user-images.githubusercontent.com/67014817/150679391-52b7ea69-2f27-4434-9f09-c5b818a00f03.jpg" width="100">](informativos/primecircle.md)<br>GetPrimeCircle | Código que permite o traçado de gráficos<br>de elevação e retorno, bem como o diagrama<br> completo da curva e de suas derivadas |
 | GetPrimeCircle | [plugins/github/README.md][PlGh] |
 | xxx | [plugins/googledrive/README.md][PlGd] |
 </div>
