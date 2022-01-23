@@ -5,7 +5,7 @@
 #####################################################
 
 from sympy import *
-from IPython.display import HTML
+#from IPython.display import HTML
 from IPython import get_ipython
 get_ipython().run_line_magic('matplotlib', 'inline')
 
@@ -49,10 +49,10 @@ def PrimeCircle(curva, h, β, φ, ε=0):
     elif (curva == 'duplaharmonica'):
         K = sqrt( 1 + 3*(pi/(β*tan(φ)))**2 )
         Rₚ = h*(3*(K-1)**2)/(8*K-4)
-        θₒ = (2*β*atan(β*(K-1)*tan(φ)/pi)/pi)
+        θₒ = 2*β*atan( β*(K-1)*tan(φ)/pi )/pi
     elif (curva == 'duplacicloide'):
         K = sqrt( 1 + 16*(pi/(β*tan(φ)))**2 )
-        Rₚ = (h/2*pi)*( (1/3)*sqrt(K**2-1)*(21/2 - 2/K**2 - /K**4) - acos(1 - 2/K**2)  )
+        Rₚ = h/(2*pi)*( 1/(3*sqrt(K**2-1))*(K**4 - 8*K**2 - 18*K**(-2) + 26) - acos(1 - 2/K**2)  )
         θₒ = (β/2*pi)*acos(1-2/K**2)
     elif (curva == '3-4-5'):
         K = 4/(β*tan(φ)) - sqrt( 1 + (4/(β*tan(φ)))**2 )
