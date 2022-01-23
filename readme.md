@@ -1,4 +1,10 @@
-# Módulos Disponíveis em Cames
+# Disponíveis neste Módulo
+
+| Módulo | Descritivo |
+| :---: | ------ |
+| [<img src="https://user-images.githubusercontent.com/67014817/150676718-dfdb3bcc-905d-44d5-92a1-6c3e8b045a91.jpg" width="100">](Permut/README.md)<br>ElevDiagram | Código que permite o traçado de gráficos<br>de elevação e retorno, bem como o diagrama<br> completo da curva e de suas derivadas |
+| GetPrimeCircle | [plugins/github/README.md][PlGh] |
+| xxx | [plugins/googledrive/README.md][PlGd] |
 
 ## [ElevDiagram](#elevdiagram-py), [GetPrimeCircle](#GetPrimeCircle-py), [GetPrimeCircleNumeric](#GetPrimeCircleNumeric-py)
 
