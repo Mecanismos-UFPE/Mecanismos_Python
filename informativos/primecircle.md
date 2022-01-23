@@ -1,4 +1,4 @@
-# [GetPrimeCircle.py](https://github.com/Mecanismos-UFPE/Python-Cames/blob/d0a6fe4e0e1c62cb841fde6c5e7e90c90020dd01/elevdiagram.py)
+# [GetPrimeCircle.py](https://github.com/Mecanismos-UFPE/Python-Cames/blob/5154702af5b295ff015b622eb799bd21c61b8c11/GetPrimeCircle.py)
 
 ### **Função Disponível:**
 
