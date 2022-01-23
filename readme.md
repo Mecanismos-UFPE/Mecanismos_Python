@@ -1,10 +1,10 @@
 # Disponíveis neste Módulo
 
 | Módulo | Descritivo |
-| ------ | ------ |
-| [<img src="https://user-images.githubusercontent.com/67014817/150675659-b3bab9ac-f155-48da-892b-f9793c3c7d21.jpg" width="150">](Permut/README.md) | Código que permite o traçado de gráficos<br>de elevação e retorno, bem como o diagrama<br> completo da curva e de suas derivadas |
+| :---: | ------ |
+| [<img src="https://user-images.githubusercontent.com/67014817/150676718-dfdb3bcc-905d-44d5-92a1-6c3e8b045a91.jpg" width="100">](Permut/README.md)<br>ElevDiagram | Código que permite o traçado de gráficos<br>de elevação e retorno, bem como o diagrama<br> completo da curva e de suas derivadas |
 | GetPrimeCircle | [plugins/github/README.md][PlGh] |
-| [<img src="https://user-images.githubusercontent.com/67014817/150675659-b3bab9ac-f155-48da-892b-f9793c3c7d21.jpg" width="150">](Permut/README.md) | [plugins/googledrive/README.md][PlGd] |
+| xxx | [plugins/googledrive/README.md][PlGd] |
 
 ## [ElevDiagram](#elevdiagram-py), [GetPrimeCircle](#GetPrimeCircle-py), [GetPrimeCircleNumeric](#GetPrimeCircleNumeric-py)
 
