@@ -1,17 +1,17 @@
 # elevdiagram py
----
-> ## **Funções:**
->
-> **GetElev**, **GetRet**, **PlotCurv** e **PlotDiagrams**
->
-> ### Formas de Uso:
->
-> ~~~
-> curv = GetElev('Curva', h, β)
-> curv = GetRet('Curva', h, β)
-> PlotCurv(curv)
-> PlorCurv(curv, AcelTrue)
-> ~~~
+
+### **Funções Disponíveis:**
+
+## **GetElev**, **GetRet**, **PlotCurv** e **PlotDiagrams**
+
+ ### Chamada das Funções:
+
+~~~python
+curv = GetElev('Curva', h, β)
+curv = GetRet('Curva', h, β)
+PlotCurv(curv)
+PlorCurv(curv, AcelTrue)
+~~~
 
 >
 > ### Argumentos:
@@ -32,15 +32,15 @@
 >
 > *Funçao PlotCurv:*
 >
-> - curv     - Valor obtido na função GetElev ou GetRet
+> - curv     - Valor retornado pela função GetElev ou pela função GetRet
 > - AcelTrue - Argumento, não obrigatório, se presente, com valor
 >            diferente de zero, não plota o gráfico da aceleração segunda.
 >
 > *Funçao PlotDiagrams:*
 >
-> - f  - Valor obtido da função GetElev.
+> - f  - Valor retornado pela função GetElev.
 > - βs - Ângulo de repouso superior (se não houver, deixe zero)
-> - g  - Valor obtido da função GetRet.
+> - g  - Valor retornado pela função GetRet.
 > - βi - Ângulo de repouso inferior (se não houver, deixe zero)
 
 **Forma de uso do Código**
