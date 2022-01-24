@@ -2,7 +2,7 @@
 
 #### Função Disponível
 
-## <FONT COLOR="red">PrimeCircle</FONT>
+## PrimeCircle
 
 #### Chamada da Função
 
@@ -30,5 +30,3 @@ from PrimeCircle import *
 
 PrimeCircle('harmonica', 8, pi/2, pi/6)
 ```
-
-$\frac{2\pi}{\beta}=\text{sen}\,\hat\varphi$
