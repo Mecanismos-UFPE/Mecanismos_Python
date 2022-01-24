@@ -1,8 +1,10 @@
 # [elevdiagram py](https://github.com/Mecanismos-UFPE/Python-Cames/blob/d0a6fe4e0e1c62cb841fde6c5e7e90c90020dd01/elevdiagram.py)
 
 ### **Funções Disponíveis:**
-
-## **GetElev**, **GetRet**, **PlotCurv** e **PlotDiagrams**
+* **GetElev**
+* **GetRet**
+* **PlotCurv**
+* **PlotDiagrams**
 
  ### Chamada das Funções:
 
