@@ -1,10 +1,12 @@
 # [elevdiagram py](https://github.com/Mecanismos-UFPE/Python-Cames/blob/d0a6fe4e0e1c62cb841fde6c5e7e90c90020dd01/elevdiagram.py)
 
-### **Funções Disponíveis:**
+### Funções Disponíveis
+* **GetElev**
+* **GetRet**
+* **PlotCurv**
+* **PlotDiagrams**
 
-## **GetElev**, **GetRet**, **PlotCurv** e **PlotDiagrams**
-
- ### Chamada das Funções:
+ ### Chamada das Funções
 
 ~~~python
 curv = GetElev('Curva', h, β)
@@ -14,7 +16,7 @@ PlorCurv(curv, AcelTrue)
 ~~~
 
 >
-> ### Argumentos:
+> **Argumentos**
 >
 > *Funçao GetElev e GetRet:*
 > 
@@ -43,7 +45,7 @@ PlorCurv(curv, AcelTrue)
 > - g  - Valor retornado pela função GetRet.
 > - βi - Ângulo de repouso inferior (se não houver, deixe zero)
 
-**Forma de uso do Código**
+### Forma de uso do Código
 ~~~python
 from elevdiagram import *
 
