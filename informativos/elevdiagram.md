@@ -14,7 +14,7 @@ PlorCurv(curv, AcelTrue)
 ~~~
 
 >
-> ### Argumentos:
+> **Argumentos**
 >
 > *Funçao GetElev e GetRet:*
 > 
@@ -43,7 +43,7 @@ PlorCurv(curv, AcelTrue)
 > - g  - Valor retornado pela função GetRet.
 > - βi - Ângulo de repouso inferior (se não houver, deixe zero)
 
-**Forma de uso do Código**
+### Forma de uso do Código
 ~~~python
 from elevdiagram import *
 
