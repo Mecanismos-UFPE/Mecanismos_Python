@@ -12,7 +12,7 @@
 curv = GetElev('Curva', h, β)
 curv = GetRet('Curva', h, β)
 PlotCurv(curv)
-PlorCurv(curv, AcelTrue)
+PlotDiagrams(curv, AcelTrue)
 ~~~
 
 >
