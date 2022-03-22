@@ -11,8 +11,8 @@
 ~~~python
 curv = GetElev('Curva', h, β)
 curv = GetRet('Curva', h, β)
-PlotCurv(curv)
-PlotDiagrams(curv, AcelTrue)
+PlotCurv(curv) ou PlotCurv(curv, AcelTrue)
+PlotDiagrams(f, βs, g, βi)
 ~~~
 
 >
