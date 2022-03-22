@@ -1,4 +1,4 @@
-# [GetPrimeCircleNumeric.py]([Python-Cames/GetPrimeCircle.py at 5154702af5b295ff015b622eb799bd21c61b8c11 · Mecanismos-UFPE/Python-Cames · GitHub](https://github.com/Mecanismos-UFPE/Python-Cames/blob/5154702af5b295ff015b622eb799bd21c61b8c11/GetPrimeCircle.py))
+# [GetPrimeCircleNumeric.py](https://github.com/Mecanismos-UFPE/Python-Cames/blob/main/GetPrimeCircleNumeric.py)
 
 #### Função Disponível
 
