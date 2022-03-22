@@ -10,6 +10,7 @@ from IPython import get_ipython
 get_ipython().run_line_magic('matplotlib', 'inline')
 
 θ = symbols('theta')
+x = symbols('x')
 
 def GetElev(curva, h, β, revert = 0):
     if (curva == 'harmonica'):
