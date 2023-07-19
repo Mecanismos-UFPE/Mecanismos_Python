@@ -5,8 +5,8 @@
 #####################################################
 
 from sympy import *
-#%matplotlib inline
 from IPython import get_ipython
+import matplotlib.pyplot as pl
 get_ipython().run_line_magic('matplotlib', 'inline')
 
 θ = symbols('theta')
